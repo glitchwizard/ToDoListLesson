@@ -11,7 +11,7 @@ namespace ToDoListNamespace
     {
       Item.ClearAll();
     }
-    
+
     [TestMethod]
     public void ItemConstructor_CreatesInstanceOfItem_Item()
     {
